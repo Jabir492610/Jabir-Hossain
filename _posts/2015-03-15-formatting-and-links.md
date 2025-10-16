@@ -1,36 +1,12 @@
 ---
 layout: post
-title: a post with formatting and links
-date: 2015-03-15 16:40:16
-description: march & april, looking forward to summer
+title: Microstructural and Mechanical Evolution of a Medium-Entropy Aluminum 7075 Alloy with
+Mg–Cu Variations
+date: July'23- July'24
+description: Supervised by: Dr. Md Moniruzzaman
 tags: formatting links
 categories: sample-posts
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. [Pinterest](https://www.pinterest.com) DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+The Aluminum 7075 alloy is known for its higher strength to weight ratio. But the high density of copper, a primary alloying element, poses a barrier to achieving a lightweight alloy, which is critical for various high-performance applications. This research focuses on understanding the effect of magnesium (Mg) in the Aluminum 7075 alloy and explores the potential of replacing copper (Cu) with Magnesium to maintain similar mechanical properties while reducing the overall weight of the alloy. The study investigates the response of the alloy's strength to the incremental addition of magnesium, up to 5%. Various experimental procedures, including casting, homogenization, tensile testing, and hardness measurement, were conducted to analyze the mechanical properties and microstructural changes. The results indicate that while copper significantly enhances the strength and hardness through the formation of Al2CuMg precipitates, magnesium also contributes to these properties by forming MgZn2 precipitates. The findings suggest that a careful optimization of the alloy composition and heat treatment processes can enable a partial substitution of Copper with Magnesium. This substitution has the potential to reduce the alloy's density while maintaining its mechanical integrity, thereby offering a more lightweight solution for advanced engineering applications.
 
-#### Hipster list
-
-- brunch
-- fixie
-- raybans
-- messenger bag
-
-#### Check List
-
-- [x] Brush Teeth
-- [ ] Put on socks
-  - [x] Put on left sock
-  - [ ] Put on right sock
-- [x] Go to school
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
-<hr>
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
