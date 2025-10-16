@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /blog/
-title: blog
+permalink: /Research Ventures/
+title: Reseach Ventures
 nav: true
 nav_order: 1
 pagination:
